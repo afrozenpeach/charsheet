@@ -1,0 +1,7 @@
+To Do List:
+
+Exports to HTML, TXT, BBP, rtf, bmp
+Save-Check should report where error is
+Racial Bonuses
+Basic Attacks
+Basic Armors
