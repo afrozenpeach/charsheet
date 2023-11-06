@@ -1,5 +1,5 @@
 //  Dungeons and Dragons v3.5 Digital Character Sheet
-//  Copyright (C) 2003-2020 Mattie Schraeder
+//  Copyright (C) 2003-2023 Mattie Schraeder
 //  https://afrozenpeach.net
 //
 //  This program is free software; you can redistribute it and/or modify

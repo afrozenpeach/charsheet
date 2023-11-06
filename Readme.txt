@@ -1,7 +1,7 @@
 Dungeons and Dragons v3.5 Digital Character Sheet
 -------------------------------------------------
 
-(C) 2003-2020 Mattie Schraeder
+(C) 2003-2023 Mattie Schraeder
 https://afrozenpeach.net/
 
 This app is pretty self explanatory but feel free to e-mail me with questions.
@@ -10,11 +10,11 @@ D&Ding in IRC late at night.  We originally used crappy text based character
 sheets, but those just aren't the same as an original sheet so I decided to
 write this little gem to make our jobs easier.
 
-Feel free to contact me if you have any questions, comments, thoughts, opinions, 
-suggestions, or bug reports.  I always welcome feedback from users, be it good, 
+Feel free to contact me if you have any questions, comments, thoughts, opinions,
+suggestions, or bug reports.  I always welcome feedback from users, be it good,
 bad, or ugly.
 
-Special Thanks: 
+Special Thanks:
 
 - MegaByte: For being such an awesome webhost
 - Elzie_Ann, Korean1004, Spiderman, Sapphire, Warlord_Zap, Mike_The_Warrior,
@@ -76,7 +76,7 @@ Version 3.0 Changes:
   Notes: For Attack Bonus and Attack Damage the parser ignores anything after a
          parentheses or colon.  A forward or backward slash seperates each Attack
          Bonus. You must use the format in the text box's tool tip for this roll
-         to work 
+         to work
 
 Version 2.0 Changes:
 
@@ -113,7 +113,7 @@ Version 2.0 Changes:
   version to my site.  You will be given full credit for any and all changes
   that you make and for any ported versions you create.
 
-  This application was written in Borland C++ Builder 5 with Borland's Visual 
+  This application was written in Borland C++ Builder 5 with Borland's Visual
 Component Library.
 
 

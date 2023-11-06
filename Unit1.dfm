@@ -1,8 +1,8 @@
 object Form1: TForm1
-  Left = 111
-  Top = 157
+  Left = 180
+  Top = 173
   Width = 795
-  Height = 539
+  Height = 540
   VertScrollBar.Tracking = True
   Caption = 
     'New Character - Dungeons and Dragons v3.5 Digital Character Shee' +
